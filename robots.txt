@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://lozouuwp.github.io/sitemap/sitemap.txt
